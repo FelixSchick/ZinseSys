@@ -1,0 +1,13 @@
+name: AerogonZinseSys
+version: Beta
+main: de.karottenboy33.aerogonzinsesys.AerogonZinseSys
+api-version: 1.16
+authors: [ Karottenboy33 ]
+softdepend:
+  - AerogonMaster
+commands:
+  zinsen:
+    aliases: [zins]
+    description: 'Du kannst dir hiermit geld leihen.'
+
+
